@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ProductSpringDataRestRepositoryApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ProductSpringDataRestRepositoryApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ProductSpringDataRestRepositoryApplication.class, args);
+    }
 
 }
